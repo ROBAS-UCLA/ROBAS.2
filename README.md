@@ -1,6 +1,6 @@
 # ROBAS.2
 
-This repository contains an R package containing data and analysis from the ROBAS Phase 2 Study.
+This repository contains an R package providing data and analysis from the ROBAS Phase 2 Study.
 
 ## Installation
 
