@@ -11,3 +11,8 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/ROBAS-UCLA/ROBAS.2
 BugReports: https://github.com/ROBAS-UCLA/ROBAS.2/issues
+Suggests: 
+    tidyverse
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.2
