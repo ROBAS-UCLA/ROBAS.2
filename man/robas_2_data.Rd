@@ -9,7 +9,7 @@ One row per brushing session
 \describe{
   \item{User}{Participant ID}
   \item{Day.in.Study}{Days since start of study}
-  etc
+  etc.
 }
 }
 \usage{
