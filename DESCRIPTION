@@ -1,6 +1,6 @@
 Package: ROBAS.2
 Type: Package
-Title: Publishes Data from ROBAs 2 Study
+Title: Publishes Data from ROBAS 2 Study
 Version: 1.0.1
 Maintainer: Douglas Ezra Morrison <demorrison@ucdavis.edu>
 Description: This package provides data from the ROBAS 2 electric toothbrushing app study.
